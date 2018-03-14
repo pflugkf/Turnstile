@@ -1,3 +1,9 @@
+/*
+ *wall.js
+ *
+ *@author Kristin Pflug
+ *@updated 2018/3/13
+ */
 var renderer;
 var camera;
 var scene;
